@@ -1,11 +1,7 @@
 # Microsoft-Movies
-**Bill KISUYA
+**Joseph  Hinga Mwangi
 Client: Microsoft Company**
 
-![image](https://github.com/Musikari/Microsoft-Movies/assets/134009227/db5e6847-61bf-4183-9730-7b136204c9ba)
-
-
-PRESENTATION:[link](https://docs.google.com/presentation/d/1d3wqDPG0AeIdfn1lX7dOdCAbXlkNNez8R6dayIa8veA/edit?usp=sharing)
 
 
 **Overview**
