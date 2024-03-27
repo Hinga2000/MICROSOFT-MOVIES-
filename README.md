@@ -1,9 +1,6 @@
 # Microsoft-Movies
-** Joseph Hinga Mwangi
-Client: Microsoft Company**
-
-
-
+![denise-jans-Lq6rcifGjOU-unsplash](https://github.com/Hinga2000/MICROSOFT-MOVIES-/assets/162554817/37ac2bd8-5150-4cc0-b010-a10a9c996d30)
+Client name : Joseph Hinga 
 
 
 **Overview**
